@@ -1,0 +1,17 @@
+#a{
+    border: 1px solid pink;
+    width: 50px;
+    height: 100px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: pink;
+    margin-left: 500px;
+}
+
+#b{
+    border: 1px solid orangered;
+    width: 150px;
+    height: 200px;
+    border-radius: 0px 0px 30px 30px;
+    background-color: orangered;
+    margin-left: 450px;
+}
